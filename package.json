@@ -1,0 +1,45 @@
+{
+  "name": "olc",
+  "version": "1.0.0",
+  "homepage": "http://github.com/adam-lynch/olc",
+  "description": "Ruins days by replacing characters with a homograph / homoglyph (like substituting semi-colons with the Greek question mark)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/adam-lynch/olc.git"
+  },
+  "author": "Adam Lynch <contact@adamlynch.com>",
+  "license": "MIT",
+  "dependencies": {
+    "escape-string-regexp": "^1.0.3",
+    "gulp-replace": "^0.5.4"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.5.1",
+    "glob-to-vinyl": "^1.0.0",
+    "gulp": "^3.9.0",
+    "mocha": "^2.3.3",
+    "should": "^7.1.1",
+    "simplesets": "^1.2.0",
+    "vinyl": "^1.1.0"
+  },
+  "keywords": [
+    "homograph",
+    "homoglyph",
+    "search",
+    "replace",
+    "trick",
+    "syntax",
+    "error",
+    "frustration",
+    "unicode",
+    "greek-question-mark",
+    "gulpfriendly"
+  ],
+  "bugs": {
+    "url": "http://github.com/adam-lynch/olc/issues"
+  }
+}
