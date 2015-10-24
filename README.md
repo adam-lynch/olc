@@ -118,7 +118,7 @@ If this option is given, the `mode` option is ignored.
 [travis-image]: http://img.shields.io/travis/adam-lynch/olc.svg?style=flat
 
 [appveyor-url]: https://ci.appveyor.com/project/adam-lynch/olc/branch/master
-[appveyor-image]: https://ci.appveyor.com/api/projects/status/9hv1ts9fm2g8d6rj/branch/master?svg=true
+[appveyor-image]: https://ci.appveyor.com/api/projects/status/0c81jdoev69sexq0/branch/master?svg=true
 
 [depstat-url]: https://david-dm.org/adam-lynch/olc
 [depstat-image]: https://david-dm.org/adam-lynch/olc.svg?style=flat
