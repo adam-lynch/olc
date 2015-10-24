@@ -5,7 +5,7 @@ olc
 
 ---
 
-Ruins days by replacing characters with a homograph / homoglyph (like substituting semi-colons with the Greek question mark). Olc is the Irish word for bad.
+Ruins days by replacing characters in files with a homograph / homoglyph (like substituting semi-colons with the Greek question mark). Olc is the Irish word for bad.
 
 Inspired by Ben Johnson's [tweet](https://twitter.com/benbjohnson/status/533848879423578112);
 
