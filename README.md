@@ -34,7 +34,8 @@ var file = new File({
     contents: fs.createReadStream('example/directory/file.js')
     // or contents: new Buffer(fs.readFileSync('example/directory/file.js'))
 });
-// or instead of creating a new file with the vinyl module, just use my glob-to-vinyl module
+// or instead of creating a new file with the vinyl module,
+// just use my glob-to-vinyl module
 
 
 var stream = olc();
