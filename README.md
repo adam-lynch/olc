@@ -11,7 +11,7 @@ Inspired by Ben Johnson's [tweet](https://twitter.com/benbjohnson/status/5338488
 
 [![Replace a semicolon (;) with a greek question mark (;) in your friend's JavaScript and watch them pull their hair out over the syntax error.](images/tweet.png)](https://twitter.com/benbjohnson/status/533848879423578112)
 
-By default, that's all that plugin does but can replace [other homographs](homographs.json) via [options](#options). See the [test/expected](test/expected) directory for example output.
+By default, that's all that plugin does but can replace [other homographs](homographs.json) as well (for extra frustration) via [options](#options). See the [test/expected](test/expected) directory for example output.
 
 # Installation
 
